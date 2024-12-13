@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary brand colors - Based on your gradient theme -->
+    <color name="primary_purple">#4a148c</color>
+    <color name="primary_red">#ff1744</color>
+
+    <!-- Secondary colors - Used in your scan button -->
+    <color name="secondary_green">#8BC34A</color>
+    <color name="secondary_blue">#00BCD4</color>
+
+    <!-- Text colors - For different hierarchy levels -->
+    <color name="text_primary">#344055</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_tertiary">#9E9E9E</color>
+
+    <!-- Background colors - For different surface levels -->
+    <color name="background_primary">#F8F8F8</color>
+    <color name="background_secondary">#F5F5F5</color>
+    <color name="background_card">#FFFFFF</color>
+
+    <!-- Border and divider colors -->
+    <color name="divider">#E0E0E0</color>
+    <color name="border_light">#EEEEEE</color>
+
+    <!-- Status colors - For feedback and indicators -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FFC107</color>
+    <color name="error">#f44336</color>
+    <color name="info">#2196F3</color>
+
+    <!-- Button colors -->
+    <color name="bgbutton">#8BC34A</color>
+    <color name="button_disabled">#BDBDBD</color>
+    <color name="button_pressed">#7CB342</color>
+
+    <!-- Overlay colors - For modals and dialogs -->
+    <color name="overlay_light">#80FFFFFF</color>
+    <color name="overlay_dark">#80000000</color>
+</resources>
