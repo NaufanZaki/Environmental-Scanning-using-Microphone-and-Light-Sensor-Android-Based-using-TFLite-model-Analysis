@@ -1,5 +1,4 @@
-# Baby Room Environment Monitor 
-
+# Environmetal Scanning using Microphone and Light Sensor Android Based using TFLite Model Analysis
 An Android application designed to monitor and analyze environmental conditions in a baby's room, focusing on sound levels and lighting conditions to ensure optimal comfort for infants.
 
 ## Features
